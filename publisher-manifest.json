@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "27536a08c943be11ca5de9c8",
+  "owner": "vjsakshvh",
+  "repo": "page-530b1bb14439a6d25bedc6f9",
+  "title": "免费订阅分享",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "530b1bb14439a6d25bedc6f9",
+      "a": "ByWave",
+      "b": "免费订阅分享",
+      "entity": "ByWave",
+      "brand": "免费订阅分享",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "24589dd6d9b2aa0cd502394677f6ec4d50b3355be64f9f5a1eed3438e1680a49",
+      "content": {
+        "primary_entity": "ByWave",
+        "keyword1": "ByWave",
+        "keyword2": "免费订阅分享",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备类型选择客户端，Windows、macOS、iOS、Android、路由器各有对应订阅导入方式。",
+          "AI_CLIENTS_TITLE": "设备客户端选择",
+          "AI_CLOSING_TEXT": "确认设备数量与月流量后，选择按月或按年订阅，并参照客户端文档完成配置。",
+          "AI_CLOSING_TITLE": "选好套餐，轻松连上",
+          "AI_DESCRIPTION": "，围绕设备选择、订阅配置与套餐对比展开，帮你弄清基础版、旗舰版与团队版各自适合几台设备、多少流量，以及按月还是按年订阅更贴合日常使用节奏。",
+          "AI_FEATURES_INTRO": "从设备数量、月流量到订阅周期，逐项对比后再决定更稳妥。",
+          "AI_FEATURES_TITLE": "选套餐前先看三件事",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备在线，旗舰版 5 台，团队版 20 台，按家中或团队实际使用设备数挑选。",
+          "AI_FEATURE_TEXT_2": "月流量从 100GB 到 1000GB 不等，轻度浏览、流媒体或多人共享，对应套餐差异明显。",
+          "AI_FEATURE_TEXT_3": "三档均可按月或按年付，年付价格更划算，长期使用建议直接选年付方案。",
+          "AI_FEATURE_TITLE_1": "设备数量匹配",
+          "AI_FEATURE_TITLE_2": "月流量估算",
+          "AI_FEATURE_TITLE_3": "订阅周期选择",
+          "AI_GUIDE_INTRO": "选服务、看适配、配订阅，三步完成 ByWave 使用准备。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_HERO_INTRO": "ByWave 提供基础版、旗舰版与团队版三档订阅，覆盖 3 至 20 台设备与 100GB 到 1000GB 月流量，可按月或按年付费，适合日常浏览、流媒体与团队共享场景。",
+          "AI_HERO_SUBTITLE": "多设备订阅，按需选套餐",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖 3 至 20 台设备",
+          "AI_HIGHLIGHT_2": "月流量 100GB 至 1000GB 可选",
+          "AI_HIGHLIGHT_3": "支持按月或按年灵活订阅",
+          "AI_PLANS_INTRO": "基础版每月 100GB、3 台设备，年付 ¥150；旗舰版每月 300GB、5 台设备并含 IPLC 专线，年付 ¥350；团队版每月 1000GB、20 台设备与专属客户经理，年付 ¥850。按设备数和流量需求对号入座即可。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量、月流量需求和预算，在基础版、旗舰版、团队版之间选定一档。",
+          "AI_STEP_TEXT_2": "确认所选套餐的设备数量、流量额度与订阅周期，是否匹配你的日常使用强度。",
+          "AI_STEP_TEXT_3": "依照所用设备对应的客户端文档导入订阅，完成节点选择与连接配置。",
+          "AI_STEP_TITLE_1": "选定套餐",
+          "AI_STEP_TITLE_2": "核对适配要求",
+          "AI_STEP_TITLE_3": "按客户端文档配置",
+          "AI_VISUAL_TITLE": "ByWave 多设备订阅方案",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备同时在线，旗舰版支持 5 台，团队版支持 20 台。多人共用可选团队版，个人手机加电脑用基础版或旗舰版即可。",
+          "AI_FAQ_ANSWER_2": "可以。按年付仅需基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，相比月付更划算，适合长期使用。",
+          "AI_FAQ_ANSWER_3": "基础版提供普通线路节点池，旗舰版含 IPLC 专线游戏加速优化与全节点原生流媒体解锁，团队版使用 VIP 专属高带宽节点，可根据用途选择。",
+          "AI_FAQ_ANSWER_4": "在订阅管理页面添加订阅地址后更新节点，不同客户端入口名称略有差异，可参考对应客户端文档完成配置。",
+          "AI_FAQ_ANSWER_5": "基础版解锁基础流媒体，旗舰版支持全节点原生流媒体解锁，团队版提供 VIP 高带宽节点，日常影音或多人共享都能覆盖。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "一个套餐能同时几台设备使用？",
+          "AI_FAQ_QUESTION_2": "按年付是否比月付划算？",
+          "AI_FAQ_QUESTION_3": "不同版本的线路有什么区别？",
+          "AI_FAQ_QUESTION_4": "订阅导入后节点不更新怎么办？",
+          "AI_FAQ_QUESTION_5": "流媒体解锁覆盖哪些版本？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "ccab6727b1c6f1932577d93a8764d13f850b6baa4d8e04b8f25cb067d9694a62",
+    "sitemap.xml": "4cc04ff075916ad5c20847d4b5be8cd3e7f5b7006209ad6b201468ecc1d36021",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "f5b3445aefea13fce7b02244b2d6f640818494e6269c4ed47b6e61589fb4a4bd"
+}
